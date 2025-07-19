@@ -25,7 +25,8 @@ export default function ActionCard() {
                     <TouchableOpacity
                     
                     onPress={()=>openwebsite('https://www.amazon.in')}
-                    >
+                
+                 >
                         <Text style ={styles.btn}>Read more</Text>
                     </TouchableOpacity>
                 </View>
